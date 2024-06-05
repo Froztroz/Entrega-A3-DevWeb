@@ -1,21 +1,22 @@
 .produtos {
 	background-color: #A6540D;
 	border-radius: 20px;
-	padding: 2%;
+	display: flex;
+	justify-content: center;
+	padding: 10px;
 }
 
-ul{
-	display: flex;
-	list-style-type: none;
-}
 
 .produtos li{
-	margin: 5%;
 	background-color: #592D14;
 	border-radius: 20px;
 	text-align: center;
+	list-style-type: none;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .produtos img{
 	border-radius: 20px;
 }
+

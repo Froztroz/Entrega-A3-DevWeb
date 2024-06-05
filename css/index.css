@@ -37,10 +37,27 @@ iframe{
     width: 50%;
 }
 
+.lista-beneficios ul{
+    display: flex;
+    flex-wrap: wrap;
+    height: 150px;
+}
+
+.itens li{
+    width: 50%;
+    font-size: 30px;
+}
+
 .itens-beneficios{
     background-color: #A6540D;
     border-radius: 20px;
     padding: 15px;
+}
+
+.imagem-beneficios1{
+    border-radius: 20px;
+    width: 100%;
+    height: 350px;
 }
 
 .imagem-beneficios{
