@@ -1,0 +1,14 @@
+Verde Escuro
+#1A2622
+
+Bege
+#A6998A
+
+Laranja claro
+#A6540D
+
+Laranja Escuro
+#8C3908
+
+Marrom
+#592D14

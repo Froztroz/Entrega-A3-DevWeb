@@ -1,0 +1,65 @@
+*{
+    margin: 5px;
+    padding: 0%;
+}
+
+body{
+    padding: 20px;
+}
+
+h1, h2, h3, p, li, a, tr, form{
+    color: #A6998A;
+}
+
+header{
+    display: flex;
+    height: 275px;
+}
+
+header img{
+    width: 50%;
+    border-radius: 20px;
+}   
+
+body {
+    background-color: #8C3908;
+}
+
+.barraMenu{
+    width: 50%;
+    background-color: #A6540D;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.barraMenu h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.menu ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+    list-style-type: none;
+    height: 100%;
+    padding-top: 7%;
+}
+
+
+.menu a:hover{
+    color: #1A2622;
+}
+
+.menu li {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size:30px;
+}
+

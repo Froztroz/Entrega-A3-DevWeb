@@ -1,0 +1,21 @@
+.produtos {
+	background-color: #A6540D;
+	border-radius: 20px;
+	padding: 2%;
+}
+
+ul{
+	display: flex;
+	list-style-type: none;
+}
+
+.produtos li{
+	margin: 5%;
+	background-color: #592D14;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.produtos img{
+	border-radius: 20px;
+}

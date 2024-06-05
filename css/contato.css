@@ -1,0 +1,24 @@
+main{
+    display: flex;
+}
+
+main img{
+    border-radius: 20px;
+}
+
+.tabela{
+    background-color: #A6540D;
+    border-radius: 20px;
+    padding: 15px;
+    width: 33%;
+    font-size: 30px;
+}
+
+form {
+    background-color: #A6540D;
+    border-radius: 20px;
+    padding: 15px;
+    width: 33%;
+    font-size: 25px;
+}
+

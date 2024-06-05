@@ -1,0 +1,49 @@
+
+.principal{
+    display: flex;
+    height: 450px;
+}
+
+.principal img{
+    width: 50%;
+    border-radius: 20px;
+}
+
+.texto{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #A6540D;
+    border-radius: 20px;    
+    padding: 15px;
+}
+
+.mapa{
+    background-color: #A6540D;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+iframe{
+    border-radius: 20px;
+}
+
+.beneficios{
+    display: flex;
+}
+
+.conteudo-beneficios{
+    width: 50%;
+}
+
+.itens-beneficios{
+    background-color: #A6540D;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.imagem-beneficios{
+    border-radius: 20px;
+    width: 50%;
+}
